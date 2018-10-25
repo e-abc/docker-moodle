@@ -9,6 +9,10 @@
 -	[`eabc/moodle:7.0`](https://github.com/e-abc/docker-moodle/blob/master/7.0/Dockerfile)
 -	[`eabc/moodle:5.6`](https://github.com/e-abc/docker-moodle/blob/master/5.6/Dockerfile)
 
+```console
+$ docker pull eabc/moodle
+```
+
 > Cada tag pertenece a la version de php
 
 ### Ejemplo
